@@ -21,4 +21,3 @@ print(type(a))
 d=True
 e=None
 print(d)
-print(e)
